@@ -1,0 +1,12 @@
+section {
+    height: 50px;
+    border-top:30px solid rgba(0,0,0,0);
+    background-image: url(../img/logo.svg);
+    background-repeat: no-repeat;
+       
+}
+header {
+    height: 80px;
+    background-image: url(../img/pattern.png);
+    background-color: rgb(0, 157, 255);
+}
