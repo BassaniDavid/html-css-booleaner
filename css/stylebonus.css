@@ -1,0 +1,73 @@
+/* font più margini a destra e sinistra a tutto tranne che al pattern */
+section {
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    margin-left: 120px;
+    margin-right: 120px;
+    
+}
+
+main {
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+footer {
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+/* rettangolo blu in alto */
+section {
+    height: 50px;
+    border-top:30px solid rgba(0, 0, 0, 0);
+    background-image: url(../img/logo.svg);
+    background-repeat: no-repeat;
+       
+}
+
+header {
+    height: 80px;
+    background-image: url(../img/pattern.png);
+    background-color: rgb(0, 157, 255);
+}
+/* colore testo */
+.azzurro {color: aqua;}
+.giallo {background-color: yellow;}
+.grigio {color: grey;}
+
+/* impostazioni tabella */
+.spaziaturatabella1 {width: 200px;}
+.spaziaturatabella2 { height: 80px;}
+
+/* colore alle linee */
+.lineablu {
+    background-color: rgb(52, 160, 254);
+    color: white;
+}
+
+.lineaazzurra {
+    background-color: rgba(127, 255, 255, 0.533);
+}
+
+/* immagini a fondo pagina */
+div.img1 {
+    color: white;
+    width: 200px;
+    height: 150px;
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 15px;
+}
+
+div.img2 {
+    color: white;
+    width: 200px;
+    height: 150px;
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 30px;
+}
