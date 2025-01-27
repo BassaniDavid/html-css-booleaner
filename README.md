@@ -1,0 +1,1 @@
+progetto: riproduzione del layout dell'immagine che ci è stata inviata
