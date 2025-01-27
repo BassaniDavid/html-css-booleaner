@@ -16,6 +16,7 @@ header {
 
 .azzurro {color: aqua;}
 .giallo {background-color: yellow;}
+.grigio {color: grey;}
 
 .spaziaturatabella1 {width: 200px;}
 .spaziaturatabella2 { height: 80px;}
@@ -29,8 +30,6 @@ header {
     background-color: rgba(127, 255, 255, 0.533);
 }
 
-.grigio {color: grey;}
-
 div.img1 {
     color: white;
     width: 200px;
@@ -40,6 +39,7 @@ div.img1 {
     background-position: center;
     margin-bottom: 15px;
 }
+
 div.img2 {
     color: white;
     width: 200px;
